@@ -2,4 +2,4 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 Your text
-hello, its me... your girl prachi!!!!!
+hello, its me... your girl prachi
